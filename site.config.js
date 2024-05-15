@@ -10,12 +10,12 @@ const CONFIG = {
     github: "Waji-97",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `morethan-log`,
-  //     href: "https://github.com/morethanmin/morethan-log",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `Github Main`,
+      href: "https://github.com/Waji-97/Waji-97",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "Waji's Notion",
