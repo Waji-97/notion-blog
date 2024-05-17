@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Github Main`,
-      href: "https://github.com/Waji-97",
+      name: `My Old Dev.to Blogs`,
+      href: "https://dev.to/waji97",
     },
   ],
   // blog setting (required)
