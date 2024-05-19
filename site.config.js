@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `My Old Dev.to Blogs`,
+      name: `My Dev.to Blogs`,
       href: "https://dev.to/waji97",
     },
   ],
